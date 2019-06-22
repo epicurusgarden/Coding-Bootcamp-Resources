@@ -26,6 +26,10 @@
   <a href="https://www.google.com/chrome/" target="_blank">Google <strong>Chrome</strong></a><br/>
   <a href="https://www.mozilla.org/en-US/firefox/" target="_blank">Mozilla <strong>FireFox</strong></a>
   </p>
+  <h5>Icons & Iconsets</h5>
+  <p>
+  <a href="https://feathericons.com/" target="_blank">Feather</a>
+  </p>
 </details>
 
 
@@ -477,7 +481,10 @@
 
   <h4>Resources</h4>
   <ul>
-    <li><a href="">Soon...</a></li>
+    <li><a href="https://www.youtube.com/watch?v=TRrL5j3MIvo ">Introduction to Angular.js in 50 Examples (part 1)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=6J08m1H2BME">Introduction to Angular.js in 50 Examples (part 2)</a></li>
+    
+    
   </ul>
 
 </details>
