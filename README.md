@@ -39,7 +39,6 @@
   <h4>References</h4>
   <ul>
   <li><a href="https://marksheet.io/introduction.html">The Web for Absolute Beginners</a></li>
-  <li><a href="https://kostasx.github.io/EventLoop/Education/tmp/WebOversimplified/index.html#/">The Web Oversimplified</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types">MIME Types</a></li>
   <li><a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html">HTTP Status Code Definitions</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods">HTTP Request Methods</a></li>
