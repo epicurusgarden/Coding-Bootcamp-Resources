@@ -20,6 +20,11 @@
        </li>
       <li><a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a></li>
       <li><a href="https://atom.io/" target="_blank">Atom Editor</a></li>
+      <ul>
+	        <li>
+            <a href="https://atom.io/packages/atom-live-server" target="_blank">Atom Live Server Package</a>
+          </li>
+      </ul>  
   </ul>
   <h5>Browsers</h5>
   <p>
@@ -120,7 +125,7 @@
 </ul>
   <h4>Questions &amp; Answers</h4>
   <ul>
-  <li><strong>Question:</strong><em> Which extension should I choose for my HTML files and why, .html or .html?</em><br><strong>Answer:</strong> The short answer. There is none. They are exactly the same.<br><a href="https://stackoverflow.com/questions/1163738/htm-vs-html">Reference</a></li>
+  <li><strong>Question:</strong><em> Which extension should I choose for my HTML files and why, .htm or .html?</em><br><strong>Answer:</strong> The short answer. There is none. They are exactly the same.<br><a href="https://stackoverflow.com/questions/1163738/htm-vs-html">Reference</a></li>
 <br>  
   <li>
       <strong>Question:</strong><em> I have the following code: <code> &lt;td rowspan="2"&gt;DATA&lt;/td&gt; </code>
@@ -196,16 +201,6 @@
     </ul>
 </li>
 
-<li><strong>CSS Animations:</strong>
-<ul>
-<li><a href="https://thoughtbot.com/blog/css-animation-for-beginners">CSS Animation for Beginners</a></li>
-<li><a href="https://www.w3schools.com/css/css3_animations.asp">CSS Animations</a></li>
-<li><a href="https://tympanus.net/codrops/css_reference/keyframes/">Keyframes</a></li>
-</ul>
-
-</li>
-
-</ul>
 
   <h4>Resources</h4>
   <ul>
@@ -373,6 +368,33 @@
   <li><a href="">Coming soon...</a></li>
   </ul>
 
+</details>
+
+<details>
+<summary>Animation</summary>
+<li><strong>CSS Animations:</strong>
+  <ul>
+    <li><a href="https://thoughtbot.com/blog/css-animation-for-beginners">CSS Animation for Beginners</a></li>
+    <li><a href="https://www.w3schools.com/css/css3_animations.asp">CSS Animations</a></li>
+    <li><a href="https://tympanus.net/codrops/css_reference/keyframes/">Keyframes</a></li>
+  </ul>
+</li>
+
+<li><strong>CSS Animation Libraries:</strong>
+  <ul>
+    <li><a href="https://github.com/daneden/animate.css">AnimateCSS</a></li>
+    <li><a href="https://zurb.com/playground/motion-ui">Motion UI</a></li>
+    <li><a href="http://all-animation.github.io/">All Animation CSS</a></li>
+  </ul>
+</li>
+
+<li><strong>Javascript Animation Libraries:</strong>
+<ul>
+<li><a href="https://threejs.org/">ThreeJS</a></li>
+<li><a href="https://animejs.com/">AnimeJS</a></li>
+<li><a href="http://velocityjs.org/">VelocityJS</a></li>
+</ul>
+</li>
 </details>
 
 <details>
