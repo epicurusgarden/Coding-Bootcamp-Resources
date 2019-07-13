@@ -482,23 +482,23 @@
 <details>
 <summary>AngularJS</summary>
 
-  <h4>Resources</h4>
-  <ul>
-  <ul>
-  <strong>Documentation</strong>
-    <li><a href="https://docs.angularjs.org/guide">AngularJS Developer Guide</a></li>
-    <li><a href="https://docs.angularjs.org/api">AngularJS API</a></li>
-    <li><a href="https://docs.angularjs.org/tutorial/step_00">AngularJS Tutorial</a></li>
-    <li><a href="https://github.com/angular/angular-seed">Angular Seed (application skeleton to quickly bootstrap your AngularJS web app).</a></li>
+<h4>Resources</h4>
+<ul>
+<strong>Documentation</strong>
+ <li><a href="https://docs.angularjs.org/guide">AngularJS Developer Guide</a></li>
+ <li><a href="https://docs.angularjs.org/api">AngularJS API</a></li>
+ <li><a href="https://docs.angularjs.org/tutorial/step_00">AngularJS Tutorial</a></li>
+ <li><a href="https://github.com/angular/angular-seed">Angular Seed (application skeleton to quickly bootstrap your AngularJS web app).</a></li>
   </ul>
-  <ul>
-  <strong>Videos</strong>
-    <li><a href="https://www.youtube.com/watch?v=i9MHigUZKEM">AngularJS Fundamentals in 60-ish Minutes</a></li>
-    <li><a href="https://www.youtube.com/watch?v=8ILQOFAgaXE">Introduction to AngularJS</a></li>
-    <li><a href="">AngularJS end-to-end web app tutorial Part I</a></li>
-    <li><a href="https://www.youtube.com/watch?v=Ja2xDrtylBw">AngularJS Developer Guide</a></li>
+
+<ul>
+<strong>Videos</strong>
+<li><a href="https://www.youtube.com/watch?v=i9MHigUZKEM">AngularJS Fundamentals in 60-ish Minutes</a></li>
+<li><a href="https://www.youtube.com/watch?v=8ILQOFAgaXE">Introduction to AngularJS</a></li>
+<li><a href="">AngularJS end-to-end web app tutorial Part I</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ja2xDrtylBw">AngularJS Developer Guide</a></li>
    
-  </ul>
+</ul>
 
 </details>
 
