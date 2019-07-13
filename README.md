@@ -477,8 +477,9 @@
 });
 </pre></li>
   </ul>
+</details>
 
-
+<details>
 <summary>AngularJS</summary>
 
   <h4>Resources</h4>
@@ -504,5 +505,5 @@
 
   </ul>
 
-</details>
+
 
