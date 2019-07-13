@@ -123,23 +123,6 @@
       	<a href="http://tutorials.codebar.io/" target="_blank">Codebar Tutorials</a>
       </li>
 </ul>
-  <h4>Questions &amp; Answers</h4>
-  <ul>
-  <li><strong>Question:</strong><em> Which extension should I choose for my HTML files and why, .htm or .html?</em><br><strong>Answer:</strong> The short answer. There is none. They are exactly the same.<br><a href="https://stackoverflow.com/questions/1163738/htm-vs-html">Reference</a></li>
-<br>  
-  <li>
-      <strong>Question:</strong><em> I have the following code: <code> &lt;td rowspan="2"&gt;DATA&lt;/td&gt; </code>
-    How do I change the inline style? Where do I insert the style attribute?</em><br>
-    <strong>Answer:</strong> You can add as many HTML Tag attributes as you like, separated by space:<br><br>
-    <code>&lt;td rowspan="2" style=""&gt;DATA&lt;/td&gt;</code>
-    <br><br>OR (order of attributes does not matter):<br><br>
-    <code>&lt;td style="" rowspan="2"&gt;DATA&lt;/td&gt;</code>
-
-  </li>
-
-
-  </ul>
-
 </details>
 
 <details>
@@ -445,7 +428,7 @@
   <h4>Resources</h4>
   <ul>
 <li>
-	<a href="https://www.taniarascia.com/getting-started-with-react/">Getting Started with React - An Overview and Walkthrough <strong>[&checkmark;]</strong></a>
+	<a href="https://www.taniarascia.com/getting-started-with-react/">Getting Started with React - An Overview and Walkthrough</a>
 </li>
 
 <li>
@@ -457,7 +440,7 @@
 </li>
 
 <li>
-	<a href="https://www.youtube.com/watch?v=_ZTT9kw3PIE">Introduction to React by Le Wagon [Video] <strong>[&checkmark;]</strong></a>
+	<a href="https://www.youtube.com/watch?v=_ZTT9kw3PIE">Introduction to React by Le Wagon [Video] </a>
 </li>
 
 
@@ -495,17 +478,30 @@
 </pre></li>
   </ul>
 
-</details>
 
-<details>
 <summary>AngularJS</summary>
 
   <h4>Resources</h4>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=TRrL5j3MIvo ">Introduction to Angular.js in 50 Examples (part 1)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=6J08m1H2BME">Introduction to Angular.js in 50 Examples (part 2)</a></li>
-    
-    
+  <ul>
+  <strong>Documentation</strong>
+    <li><a href="https://docs.angularjs.org/guide">AngularJS Developer Guide</a></li>
+    <li><a href="https://docs.angularjs.org/api">AngularJS API</a></li>
+    <li><a href="https://docs.angularjs.org/tutorial/step_00">AngularJS Tutorial</a></li>
+    <li><a href="https://github.com/angular/angular-seed">Angular Seed (application skeleton to quickly bootstrap your AngularJS web app).</a></li>
+  </ul>
+  <ul>
+  <strong>Videos</strong>
+    <li><a href="https://www.youtube.com/watch?v=i9MHigUZKEM">AngularJS Fundamentals in 60-ish Minutes</a></li>
+    <li><a href="https://www.youtube.com/watch?v=8ILQOFAgaXE">Introduction to AngularJS</a></li>
+    <li><a href="">AngularJS end-to-end web app tutorial Part I</a></li>
+    <li><a href="https://www.youtube.com/watch?v=Ja2xDrtylBw">AngularJS Developer Guide</a></li>
+   
+  </ul>
+
+</details>
+
+
   </ul>
 
 </details>
