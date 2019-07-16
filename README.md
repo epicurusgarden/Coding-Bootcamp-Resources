@@ -321,13 +321,23 @@
 
 ### ADVANCED HTML-CSS
  
-<details>
+ <details>
 <summary>HTML5 APIs</summary>
   <p>Syllabus:</p>
   <h4>References</h4>
   <ul>
     <li>
       <a href="https://developer.mozilla.org/en-US/docs/Web/API"><strong>Web APIs</strong></a>
+    </li>
+	  <li><strong>Drag and Drop API</strong></li>
+	  <ul>
+		  <li><a href="https://javascript.info/mouse-drag-and-drop">Drag'n'Drop with mouse events | JavaScript.info</a></li>
+	  </ul>
+    <li>
+	    <strong>Geolocation API</strong>
+	    <ul>
+		    <li>Simple Example of a Map using Geolocation, LeafletJS and the OpenLayers Library: [ <a href="https://github.com/epicurusgarden/Coding-Bootcamp-Resources/tree/master/Geolocation-Let's%20go%20to%20cinema">Code</a> | <a href="https://github.com/epicurusgarden/Coding-Bootcamp-Resources/tree/master/Geolocation-Let's%20go%20to%20cinema">Demo</a> ]</li>
+	    </ul>
     </li>
 	<li>
       <strong>Media API:</strong>
@@ -344,14 +354,18 @@
            </li>
        </ul>
      </li>
-</ul>
 
-  <h4>Resources</h4>
+  <h4>Questions</h4>
   <ul>
-  <li><a href="">Coming soon...</a></li>
+  <li><strong>Question: </strong><i>What is the difference between .ogg, .ogv and .oga?</i><br><strong>Answer: </strong>There's difference between .ogg and .ogv. Ogg may be used for both audio and video content. Ogv is a video file container. Initially, .ogg format served for both audio and video files.
+    But now (usually) .ogv is used for video files and .ogg or .oga for audio files.</li>
   </ul>
 
+
+</ul>
+  
 </details>
+
 
 <details>
 <summary>Animation</summary>
@@ -403,8 +417,7 @@
   <h4>Resources</h4>
   <ul>
 <li>
-    <a href="https://books.goalkicker.com/jQueryBook/" target="_blank">jQuery - Notes for Professionals (Free PDF) <strong>[&checkmark;]</strong></a> /
-	<a href="https://github.com/kostasx/EventLoop/blob/master/jquery/resources/jQueryNotesForProfessionals.pdf"><strong>[ View PDF ]</strong></a>
+    <a href="https://books.goalkicker.com/jQueryBook/" target="_blank">jQuery - Notes for Professionals (Free PDF)</a>
 </li>
 <li>
     <a href="https://www.w3schools.com/jquery/default.asp" target="_blank">jQuery Tutorial @ w3schools.com</a>
